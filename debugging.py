@@ -1,4 +1,3 @@
-from turtle import back
 from colorama import init, Fore, Back, Style
 import os
 from datetime import datetime
